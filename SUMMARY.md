@@ -4,7 +4,7 @@
 
 ## 概要
 
-* [はじめに](gai-yao/hajimeni.md)
+* [🐋 はじめに](gai-yao/hajimeni.md)
 * [目的](gai-yao/mu-de.md)
 
 ## Pyrenees(Webアプリケーション)
