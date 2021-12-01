@@ -13,7 +13,7 @@
 * [使い方](pyreneeswebapurikshon/i.md)
 * [Page 3](pyreneeswebapurikshon/page-3.md)
 * [プロジェクト](pyreneeswebapurikshon/projects.md)
-* [Members](pyreneeswebapurikshon/members.md)
+* [メンバー](pyreneeswebapurikshon/members.md)
 * [Task Lists](pyreneeswebapurikshon/task-lists.md)
 * [Tasks](pyreneeswebapurikshon/tasks.md)
 
