@@ -1,29 +1,22 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [坂根班　卒業研究](README.md)
 
-## Guides
+## 概要
 
-* [坂根班　卒業研究](guides/ban-gen-ban-zu-ye-yan-jiu.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [はじめに](gai-yao/hajimeni.md)
+* [目的](gai-yao/mu-de.md)
+* [Advanced permissions](gai-yao/advanced-permissions.md)
 
-## Fundamentals
+## Pyrenees(Webアプリケーション)
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [使い方](pyreneeswebapurikshon/i.md)
+* [Page 3](pyreneeswebapurikshon/page-3.md)
+* [Projects](pyreneeswebapurikshon/projects.md)
+* [Members](pyreneeswebapurikshon/members.md)
+* [Task Lists](pyreneeswebapurikshon/task-lists.md)
+* [Tasks](pyreneeswebapurikshon/tasks.md)
 
-## Use Cases
+## Komondor(Android)
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Page 1](komondor-android/page-1.md)

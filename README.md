@@ -1,4 +1,4 @@
-# What is MyProduct?
+# 坂根班　卒業研究
 
 
 
@@ -32,16 +32,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/ban-gen-ban-zu-ye-yan-jiu.md" %}
-[ban-gen-ban-zu-ye-yan-jiu.md](guides/ban-gen-ban-zu-ye-yan-jiu.md)
+{% content-ref url="gai-yao/hajimeni.md" %}
+[hajimeni.md](gai-yao/hajimeni.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="gai-yao/mu-de.md" %}
+[mu-de.md](gai-yao/mu-de.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="gai-yao/advanced-permissions.md" %}
+[advanced-permissions.md](gai-yao/advanced-permissions.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -52,20 +52,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="pyreneeswebapurikshon/projects.md" %}
+[projects.md](pyreneeswebapurikshon/projects.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="pyreneeswebapurikshon/members.md" %}
+[members.md](pyreneeswebapurikshon/members.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="pyreneeswebapurikshon/task-lists.md" %}
+[task-lists.md](pyreneeswebapurikshon/task-lists.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="pyreneeswebapurikshon/tasks.md" %}
+[tasks.md](pyreneeswebapurikshon/tasks.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
