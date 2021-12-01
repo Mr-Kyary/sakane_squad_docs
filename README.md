@@ -40,8 +40,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [mu-de.md](gai-yao/mu-de.md)
 {% endcontent-ref %}
 
-{% content-ref url="gai-yao/advanced-permissions.md" %}
-[advanced-permissions.md](gai-yao/advanced-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -52,20 +52,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="pyreneeswebapurikshon/projects.md" %}
-[projects.md](pyreneeswebapurikshon/projects.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="pyreneeswebapurikshon/members.md" %}
-[members.md](pyreneeswebapurikshon/members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="pyreneeswebapurikshon/task-lists.md" %}
-[task-lists.md](pyreneeswebapurikshon/task-lists.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="pyreneeswebapurikshon/tasks.md" %}
-[tasks.md](pyreneeswebapurikshon/tasks.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

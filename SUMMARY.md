@@ -6,17 +6,11 @@
 
 * [はじめに](gai-yao/hajimeni.md)
 * [目的](gai-yao/mu-de.md)
-* [Advanced permissions](gai-yao/advanced-permissions.md)
 
 ## Pyrenees(Webアプリケーション)
 
-* [使い方](pyreneeswebapurikshon/i.md)
-* [Page 3](pyreneeswebapurikshon/page-3.md)
-* [プロジェクト](pyreneeswebapurikshon/projects.md)
-* [メンバー](pyreneeswebapurikshon/members.md)
-* [Task Lists](pyreneeswebapurikshon/task-lists.md)
-* [Tasks](pyreneeswebapurikshon/tasks.md)
+* [💻 使い方](pyreneeswebapurikshon/i.md)
 
 ## Komondor(Android)
 
-* [Page 1](komondor-android/page-1.md)
+* [📱 使い方](komondor-android/page-1.md)
